@@ -1,0 +1,165 @@
+#dashboard{   
+    color:rgba(59, 122, 97, 0.834);
+    font-family:cursive;
+    font-size:xxx-large;
+}
+
+#MainMenu{
+    visibility: hidden;
+}
+
+#ecefe5d3{     /* padrão Botões   */
+    color:rgb(217, 161, 47);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:small;
+}
+#valuation{
+    color:#d67b64;
+    font-size:larger;
+}
+
+#e5c16cae{  /*fundamentus     */
+    color: #d67b64;
+    font-size:large;
+}
+
+#carteira-recomendada{
+    color:#d67b64;
+    font-size:larger;
+}
+
+#maiores-pagadoras-de-dividendos{
+    color:#d67b64;
+    font-size:larger;
+}
+
+#Carteira{
+    color: #d67b64;
+    font-size: larger;
+}
+
+#Carteira{
+    color: #d67b64;
+    font-size:larger;
+}
+
+#carteira-recomendada-2023{
+    color: #d67b64;
+    font-size:larger;
+}
+
+#carteira-recomendada-2024{
+    color: #d67b64;
+    font-size:larger;
+}
+
+#f4064814{   /* bons números  */
+    color:#d67b64;
+    font-size:larger;
+}
+
+#dividend-yield-maior-que-6{   /*color:rgb(45, 114, 156);*/
+    color:#4D909A;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#sabbius-fundamentus-com-br-google-sheets-godkom-invest{
+    color:#4D909A;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+
+#dd02ee82{  /* valuation */
+    color:#4D909A;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#d5f4597e{
+    color:#4D909A;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#e92fe906{
+    color:#4D909A;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#taxa-de-crescimento-maior-roe-melhor-5-anos-c5y{
+    color:#4D909A;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#formula-de-graham{
+    color:#4D909A;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#stLinkButton{
+    color:blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+
+#desempenho-relativo{
+    color:rgb(112, 90, 44);
+    font-family:cursive;
+    font-size:xx-large;
+}
+
+#risco-retorno{
+    color:rgb(112, 90, 44);
+    font-family:cursive;
+    font-size:xx-large;
+}
+
+#petr4{
+    color:#4b7393;
+}
+
+#pine4{
+    color:#4b7393;
+}
+
+#plpl3{
+    color:#4b7393;
+}
+
+#ugpa3{
+    color:#4b7393;
+}
+
+#vlid3{
+    color:#4b7393;
+}
+
+#ibov{
+    color:#4b7393;
+}
+
+#portifolio{
+    color:#4b7393;
+}
+
+#bbas3{
+    color:#4b7393;
+}
+
+#pomo3{
+    color:#4b7393;
+}
+
+
+#Dividendos{
+    font-style:italic;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+}
+
+
+
